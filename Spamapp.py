@@ -21,3 +21,4 @@ if st.button("Check Email"):
     else: 
         st.warning("Please enter some text to analyze.")
 st.write("Developed by rithvin04")
+
