@@ -4,6 +4,7 @@ This is a small project where I built a machine-learning model that can tell whe
 
 The project takes raw message text, cleans it, turns it into numerical features, trains on a dataset of tagged emails, and then makes predictions in real time. The goal wasn’t to make a perfect enterprise-level solution, just something clean, simple, and useful to understand how spam classification works.
 
+Link : https://spam-ham-checker.streamlit.app/
 ---
 
 ## 🚀 What this project does
