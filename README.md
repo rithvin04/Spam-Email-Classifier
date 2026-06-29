@@ -53,5 +53,5 @@ It then shows a simple message:
 
 ### 1. Clone this repo
 ```bash
-git clone https://github.com/your-username/spam-email-classifier.git
+git clone https://github.com/rithvin04/spam-email-classifier.git
 cd spam-email-classifier
